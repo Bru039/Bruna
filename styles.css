@@ -10,8 +10,3 @@ background-color: var(--cor-de-fundo);
 margin: 0;
 }
 
-.container_principal{
-    display: flex;
-    align-items: center;
-    padding-right: 1em;
-}

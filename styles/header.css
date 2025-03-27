@@ -33,3 +33,10 @@
             display: block;   
        }
     }
+
+    .container_principal{
+        display: flex;
+        align-items: center;
+        padding-right: 1em;
+        border-radius: 5rem;
+    }
