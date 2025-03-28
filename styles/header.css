@@ -34,9 +34,12 @@
        }
     }
 
-    .container_principal{
-        display: flex;
-        align-items: center;
-        padding-right: 1em;
-        border-radius: 5rem;
-    }
+img { 
+    float: left;
+    margin-right:20px ;
+    width: 40%
+}
+.text{
+    width: 55%
+    float right;
+}
